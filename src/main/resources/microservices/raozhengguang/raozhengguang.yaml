@@ -4,7 +4,7 @@ info:
   version: "1.0.0"
   title: "rest test"
   x-java-interface: "com.service.controller.Raozhengguang"
-basePath: "/test004"
+basePath: "/test0008"
 schemes:
 - "http"
 produces:

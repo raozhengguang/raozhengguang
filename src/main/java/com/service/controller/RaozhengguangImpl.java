@@ -8,10 +8,10 @@ import org.springframework.web.bind.annotation.*;
 
 import io.servicecomb.provider.rest.common.RestSchema;
 
-@javax.annotation.Generated(value = "io.swagger.codegen.languages.CseSpringCodegen", date = "2017-11-17T17:02:26.817Z")
+@javax.annotation.Generated(value = "io.swagger.codegen.languages.CseSpringCodegen", date = "2017-11-18T03:48:57.881Z")
 
 @RestSchema(schemaId = "raozhengguang")
-@RequestMapping(path = "/test004", produces = MediaType.APPLICATION_JSON)
+@RequestMapping(path = "/test0008", produces = MediaType.APPLICATION_JSON)
 public class RaozhengguangImpl {
 
     @Autowired
